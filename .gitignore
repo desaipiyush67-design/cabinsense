@@ -1,0 +1,12 @@
+.venv/
+__pycache__/
+*.pyc
+.pytest_cache/
+runs/
+models/
+samples/
+*.pt
+*.onnx
+cpp/build/
+cpp/third_party/
+.env
